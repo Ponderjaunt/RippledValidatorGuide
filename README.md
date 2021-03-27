@@ -1,5 +1,5 @@
 # RippledValidatorGuide
-Linux Rippled Validator InitializationGuide
+Linux Rippled Validator Initialization Guide
 
 # XRP Ledger Linux Validator Initialization Guide
 
